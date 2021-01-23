@@ -1,2 +1,35 @@
 node_modules
 dist
+
+# npm files
+*.log
+*.tgz
+
+# Editor files
+.idea
+*.sublime-project
+*.sublime-workspace
+
+coverage
+reports
+.cache
+.nyc_output
+
+pids
+logs
+npm-debug.log
+coverage/
+run
+dist
+.DS_Store
+.nyc_output
+config.local.js
+.umi
+.umi-production
+.idea/
+.cache
+es
+lib
+.eslintcache
+.history
+.now
