@@ -3,4 +3,9 @@
 - Single SPA
 - Mosaic9
 - Qiankun
-- Piral - sample not working
+- Piral
+- Frint
+
+# Not covered solutions
+
+- OpenComponents
