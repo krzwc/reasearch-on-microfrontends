@@ -3,4 +3,4 @@
 - Single SPA
 - Mosaic9
 - Qiankun
-- Piral
+- Piral - sample not working
