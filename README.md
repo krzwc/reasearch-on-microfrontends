@@ -2,3 +2,5 @@
 
 - Single SPA
 - Mosaic9
+- Qiankun
+- Piral
