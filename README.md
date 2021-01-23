@@ -5,6 +5,7 @@
 - Qiankun
 - Piral
 - Frint
+- Luigi
 
 # Not covered solutions
 
