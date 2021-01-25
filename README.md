@@ -6,6 +6,7 @@
 - Piral
 - Frint
 - Luigi
+- Webpack Federated Modules
 
 # Not covered solutions
 
